@@ -58,6 +58,8 @@ Params:
 Return:
     Returns checkpoint id, -1 if failed (player checkpoint ID starts at 0)
 
+____________________________________________________________
+
 Function:
 	DestroyAdvancedCP
 
@@ -71,6 +73,8 @@ Params:
 Return:
     Returns true if the execution is successful, false if it fails
 
+____________________________________________________________
+
 Function:
 	IsPlayerInAdvancedCP
 
@@ -83,6 +87,8 @@ Params:
 
 Return:
     Returns true if the player is inside, returns false if the player is not inside
+
+____________________________________________________________
 
 Function:
 	GetPlayerAdvancedCP
